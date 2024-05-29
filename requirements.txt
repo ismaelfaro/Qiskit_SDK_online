@@ -2,3 +2,4 @@ qiskit
 pyscf
 matplotlib
 pylatexenc
+jupyterlab
