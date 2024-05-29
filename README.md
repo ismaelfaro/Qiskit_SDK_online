@@ -1,2 +1,4 @@
-# Qiskit_SDK_online
-example about how create a Codespaces with Qiskit SDK and tutorials
+# Qiskit SDK online
+
+example about how use Github Codespaces to develop with Qiskit SDK including tutorials
+
